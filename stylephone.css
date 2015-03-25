@@ -1,0 +1,38 @@
+﻿@media only screen and (max-width: 480px) {
+
+#inner-container{
+	width:98%;
+}
+
+#hero-container{
+	overflow:display;
+}
+
+#hero{
+	width:100%;
+	margin: 0px 0px 20px 0px;
+	max-height:403px;
+	float:none;
+	background-color:black;
+}
+
+#hero-side-box{
+	float:none;
+	width:100%;
+}
+
+#main-text{
+	margin-bottom:40px;
+}
+
+.feature-block{
+	width:100%;
+	margin-bottom:20px;
+}
+
+.feature-block-wide{
+	width:100%;
+}
+
+
+}
