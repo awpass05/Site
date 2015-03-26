@@ -136,6 +136,7 @@ background-color:#F9F9F9;
 #hero-container{
 	overflow:hidden;
 	position:relative;
+	border:1px solid black;
 		}
 
 #hero{
@@ -315,5 +316,7 @@ background-color:#F9F9F9;
 }
 
 .footer-right{
+	
 	text-align:right;
+	
 }

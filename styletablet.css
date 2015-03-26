@@ -1,8 +1,12 @@
 ﻿@media only screen and (max-width:800px) and (min-width: 481px){
 
+#hero-container{
+	overflow:scroll;
+}
+
 #hero{
 	background-color:green;
-	float:none;
+	float:left;
 	width:100%;
 }
 
@@ -14,5 +18,8 @@
 	width:100%;
 }
 
+#inside-pic{
+		background-color:green;
+}
 
 }
