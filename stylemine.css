@@ -57,6 +57,47 @@ background-color:#F9F9F9;
 	margin:0 0 2% 2%;
 	width:100%;
 	max-width:300px;
+	float:left;
+}
+
+#sm-box{
+	height:40px;
+	width:auto;
+	float:right;
+}
+
+.sm-icons{
+	height:36px;
+	width:36px;
+	float:left;
+	margin-right:20px;
+}
+
+#facebook-logo{
+	background-image: url(pics/facebook-gray-36.png);
+
+}
+
+#facebook-logo:hover{
+	background-image: url(pics/facebook-color-42.png);
+	height:42px;
+	width:42px;
+}
+
+#twitter-logo{
+	background-image: url(pics/twitter-gray-36.png);
+}
+
+#twitter-logo:hover{
+	background-image: url(pics/twitter-color-36.png);
+}
+
+#linkedin-logo{
+	background-image: url(pics/linkedin-gray-36.png);
+}
+
+#linkedin-logo:hover{
+	background-image: url(pics/linkedin-color-36.png);
 }
 
 #nav-bar{

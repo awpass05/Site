@@ -1,5 +1,15 @@
 ﻿@media only screen and (max-width:800px) and (min-width: 481px){
 
+#logo{
+	float:none;
+}
+
+#sm-box{
+	margin:0 auto;
+	width:200px;
+	float:none;
+}
+
 #hero-container{
 	overflow:scroll;
 }
@@ -8,6 +18,10 @@
 	background-color:green;
 	float:left;
 	width:100%;
+}
+
+#hero-side-box{
+	display:hidden;
 }
 
 .feature-block{
